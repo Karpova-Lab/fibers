@@ -1,4 +1,4 @@
-Based on the [Brody Lab protocol](Brody lab protocol.pdf) we do the following:
+Based on the [Brody Lab protocol](brody_lab_protocol.pdf) we do the following:
 - Use a [stripping tool](http://www.fiberinstrumentsales.com/fis-lynx-precision-cleaver-with-fiber-basket.html) to strip a [200 micron Newport fiber](https://www.newport.com/p/F-MBB) to remove outer jacket
 - Use a [cleaver](http://www.fiberinstrumentsales.com/fis-lynx-precision-cleaver-with-fiber-basket.html) to cut fiber down to ~ 15mm
 - Use a butane torch/lighter to burn away ~3mm of thin plastic coating to expose the tip for etching
