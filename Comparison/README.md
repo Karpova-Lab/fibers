@@ -1,4 +1,4 @@
-# Experimental Setup
+# Setup
 - Made agar with 100mL buffer and ~ 0.7g of agarose
 - Used Laser diodes G2 and G3, which had similar characteristics
 - Powered at the same time via the same PWM circuit
@@ -8,6 +8,6 @@
 	- ISO: 50
 
 # Results
-- The first photo compares Newport fibers, not etched vs etched
-- Second photo compares etched fibers, Newport vs Thorlabs
+- First setup (columns 1 and 2) compares Newport fibers, not etched vs etched
+- Second setup (columns 3 and 4) compares etched fibers, Newport vs Thorlabs
 ![Comparison](comparison.png)
